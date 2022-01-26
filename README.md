@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehaboob Hussain
-- 👀 I’m interested in Python developer
+- 👀 I’m interested in Python developing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Software Development
 
